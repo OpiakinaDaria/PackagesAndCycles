@@ -1,6 +1,7 @@
 package ru.netology.javaqa.javaqamvn.sqr;
 
 import static org.junit.jupiter.api.Assertions.*;
+
 import org.junit.jupiter.api.Test;
 
 public class SQRServiceTest {
